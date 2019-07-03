@@ -1,2 +1,1 @@
-This is the dataset of 'Domain Specific Code Smells in Smart Contracts'.  CodeSmells.csv is the labeling results conduct from 2,522 smart contracts on 587 contract accounts. Since smart contracts in an account cannot be separated (smart contracts in one account can be called by each other), so we labeled the smart contract at the account level.
-Keywords.txt is the keywords we used to filter smart-contract-related posts on StackExchange.
+This is the dataset of 'Defining Domain-Specific Code Smells in Smart Contracts'.  CodeSmells.csv is the labeling results conduct from 587 smart contracts. Keywords.txt is the keywords we used to filter smart-contract-related posts on StackExchange.
